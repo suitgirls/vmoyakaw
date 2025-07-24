@@ -9,7 +9,11 @@ h2 {
     font-family: "Oswald", sans-serif;
 }
 
-nav {background-color: lightblue;}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: lightblue;
+    }
 
 nav a {color: white}
 nav {color: white}
